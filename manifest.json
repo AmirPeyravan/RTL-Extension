@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "راست نویس",
-    "version": "1.1",
-    "description": "تغییر جهت متن به راست‌چین و اصلاح فونت",
+    "name": "هوش راست",
+    "version": "1.2",
+    "description": "راست‌چین کردن گفتگو در ChatGPT، Claude و Gemini",
     "permissions": [
         "contextMenus",
         "activeTab",

@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create({
         id: "fix-rtl-font",
-        title: "اصلاح فونت و جهت (RTL)",
+        title: "راست‌چین کردن متن انتخابی",
         contexts: ["all"]
     });
 });
